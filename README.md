@@ -18,9 +18,6 @@ I'm just newbie web developer and on progress to be pro and fullstack developer.
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Anugerah-Trisna-Hadi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Anugerah-Trisna-Hadi&icon=2&color=9)](https://visitcount.itsvg.in)
 
